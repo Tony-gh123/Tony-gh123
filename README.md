@@ -17,6 +17,7 @@ I started my first business at the age of Nine after learning to crochet from my
 As I've gotten older, I've attemped a series of fast-cash businesses from web-design, to e-commerce, and a more serious start-up with a few colleagues from undergraduate school. My journey continues! 
 
 🎯 **Interests**
+
 Entrepreneurship • Data Science • Computer Science • Philosophy •
 Cognitive & Behavioral Science • Social Science • Bioinformatics
 
