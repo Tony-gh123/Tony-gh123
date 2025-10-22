@@ -5,7 +5,7 @@ Welcome to my data page! Here I share projects, ideas, and journal my way into b
 Interests: Entrepreneurship, Data Science, Computer Science, Philosophy, Cognitive and Behavioral Science, Social Science, Bioinformatics.
 
 <details class="courses-dropdown">
-    <summary class="in-progress-heading">Certificates</summary>
+    <summary class="in-progress-heading">Online Coursework I've Enjoyed (Click Here)</summary>
     <ul class="courses-list">
         <li>
             <a href="https://cs50.harvard.edu/" target="_blank">
