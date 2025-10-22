@@ -1,11 +1,27 @@
-## Hi there 👋
+## Hi there 👋 Nice to meet you, welcome!
 
-Welcome to my data page! Here I share projects, ideas, and journal my way into big data! I am passionate about how we can use statistics and data to describe the world around us. I am currently working on a couple of Machine Learning projects at the intersection of business and social science.
+Here, I share projects, ideas, and reflections as I learn, experiment, and grow.
 
-Interests: Entrepreneurship, Data Science, Computer Science, Philosophy, Cognitive and Behavioral Science, Social Science, Bioinformatics.
+🧠 **About Me** 
+
+I describe myself as a **social scientist, data scientist, and philosopher**. 
+
+I am currently working on a couple of Machine Learning projects at the intersection of business and social science. My repositories are a combination of practice-projects for data wrangling/processing/vizualizations and other more serious statistical and predictive modeling work.  
+
+Feel free to ping me or email me at 📧 ayeraldo.guillen@gmail.com if you have any questions.
+
+🚀 My Journey in **Entrepreneurship**
+
+I started my first business at the age of seven after learning to crochet from my grandma, who at the time took care of my brothers and me. I noticed that many of my classmates loved the idea of having items with their names on them and were willing to pay to display their names proudly. Not long after recognizing this, I began crocheting personalized bracelets for my closest friends, and soon had a line of kids in my fourth-grade class eager to trade their lunch items for a bracelet with their name on it.
+
+As I've gotten older, I've attemped a series of fast-cash businesses from web-design, to e-commerce, and a more serious start-up with a few colleagues from undergraduate school. My journey continues! 
+
+🎯 **Interests**
+Entrepreneurship • Data Science • Computer Science • Philosophy •
+Cognitive & Behavioral Science • Social Science • Bioinformatics
 
 <details class="courses-dropdown">
-    <summary class="in-progress-heading">Online Coursework I've Enjoyed (Click Here)</summary>
+    <summary class="in-progress-heading"><strong>Online Coursework I've Enjoyed (Click Here)</strong></summary>
     <ul class="courses-list">
         <li>
             <a href="https://cs50.harvard.edu/" target="_blank">
@@ -76,6 +92,16 @@ Interests: Entrepreneurship, Data Science, Computer Science, Philosophy, Cogniti
             <a href="https://www.coursera.org/learn/sql-data-science?specialization=ibm-relational-database-administrator" target="_blank">
                 IBM: Databases and SQL for Data Science with Python
             </a>
+        </li>
+        <li>
+            <a href="https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science" target="_blank">
+                DeepLearning.AI Mathemathics for Machine Learning & Data Science
+            </a>
+            <ul class="sub-courses">
+                <li>→ (1 of 3): Linear Algebra for ML</li>
+                <li>→ (2 of 3): Calculus for ML</li>
+                <li>→ (3 of 3): Probability and Statistics for ML</li>
+            </ul>
         </li>
     </ul>
 </details>
