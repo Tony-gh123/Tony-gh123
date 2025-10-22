@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my data page! Here I share projects, ideas, and journal my way into big data! I am passionate about how we can use Statistics and Data to describe our world around us. I am currently working on a couple of Machine Learning projects at the intersection of business and social science.
+Welcome to my data page! Here I share projects, ideas, and journal my way into big data! I am passionate about how we can use statistics and data to describe the world around us. I am currently working on a couple of Machine Learning projects at the intersection of business and social science.
 
 Interests: Entrepreneurship, Data Science, Computer Science, Philosophy, Cognitive and Behavioral Science, Social Science, Bioinformatics.
 
