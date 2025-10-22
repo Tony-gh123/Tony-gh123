@@ -12,7 +12,7 @@ Feel free to ping me or email me at 📧 ayeraldo.guillen@gmail.com if you have 
 
 🚀 My Journey in **Entrepreneurship**
 
-I started my first business at the age of seven after learning to crochet from my grandma, who at the time took care of my brothers and me. I noticed that many of my classmates loved the idea of having items with their names on them and were willing to pay to display their names proudly. Not long after recognizing this, I began crocheting personalized bracelets for my closest friends, and soon had a line of kids in my fourth-grade class eager to trade their lunch items for a bracelet with their name on it.
+I started my first business at the age of Nine after learning to crochet from my grandma, who at the time took care of my brothers and me. I noticed that many of my classmates loved the idea of having items with their names on them and were willing to pay to display their names proudly. Not long after recognizing this, I began crocheting personalized bracelets for my closest friends, and soon had a line of kids in my fourth-grade class eager to trade their lunch items for a bracelet with their name on it.
 
 As I've gotten older, I've attemped a series of fast-cash businesses from web-design, to e-commerce, and a more serious start-up with a few colleagues from undergraduate school. My journey continues! 
 
