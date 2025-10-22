@@ -3,8 +3,6 @@
 Welcome to my data page! Here I share projects, ideas, and journal my way into big data! I am passionate about how we can use statistics and data to describe the world around us. I am currently working on a couple of Machine Learning projects at the intersection of business and social science.
 
 Interests: Entrepreneurship, Data Science, Computer Science, Philosophy, Cognitive and Behavioral Science, Social Science, Bioinformatics.
-
-- 
 <!--
 **Tony-gh123/Tony-gh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
