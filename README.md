@@ -1,6 +1,6 @@
 ## Hi there 👋 Nice to meet you, welcome!
 
-Here, I share projects, ideas, and reflections as I learn, experiment, and grow.
+Here, I share projects, ideas, and reflections as I learn.
 
 🧠 **About Me** 
 
