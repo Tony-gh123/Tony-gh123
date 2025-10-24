@@ -2,7 +2,7 @@
 
 Data, Society, Machine Learning, all the fun stuff!
 
-🧠 ### **About Me**
+🧠 **About Me**
 
 I describe myself as a **data scientist** who's trying to make sense of society and the philosophy of good and evil.
 
