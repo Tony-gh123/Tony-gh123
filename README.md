@@ -2,15 +2,15 @@
 
 Data, Society, Machine Learning, all the fun stuff!
 
-🧠 About Me
+🧠 ### **About Me**
 
-I describe myself as a data scientist who's trying to make sense of society and the philosophy of good and evil.
+I describe myself as a **data scientist** who's trying to make sense of society and the philosophy of good and evil.
 
 I am currently working on a couple of Machine Learning projects at the intersection of business and social science. My repositories are a combination of data wrangling practice-projects and other more serious statistical and predictive modeling work.
 
 Feel free to ping me or email me at 📧 ayeraldo.guillen@gmail.com if you have any questions.
 
-🚀 My Journey in Entrepreneurship
+🚀 **My Journey in Entrepreneurship**
 
 I started my first business in my fourth grade class in El Salvador. I had learned to crochet from my grandma, who at the time took care of my brothers and I. I noticed that many of my classmates liked the idea of having items with their names printed on them and more surprisingly to my nine years old self, they were willing to pay for it. Out of kindness, I began crocheting personalized bracelets for my closest friends, and soon had all of my classmates eager to trade their lunch items for a bracelet with their name on it.
 
