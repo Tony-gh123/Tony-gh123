@@ -96,7 +96,7 @@ Cognitive & Behavioral Science • Social Science • Bioinformatics
         </li>
         <li>
             <a href="https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science" target="_blank">
-                DeepLearning.AI Mathemathics for Machine Learning & Data Science
+                DeepLearning.AI Mathematics for Machine Learning & Data Science
             </a>
             <ul class="sub-courses">
                 <li>→ (1 of 3): Linear Algebra for ML</li>
