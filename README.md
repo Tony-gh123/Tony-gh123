@@ -1,6 +1,6 @@
 ## Hi there 👋 Nice to meet you!
 
-Here, I share projects, ideas, and reflections as I learn.
+Data, Society, Machine Learning, all the fun stuff! 
 
 🧠 **About Me** 
 
