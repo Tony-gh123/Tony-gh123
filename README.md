@@ -4,7 +4,7 @@ Data, Society, Machine Learning, all the fun stuff!
 
 🧠 **About Me**
 
-I describe myself as a **data scientist** who's trying to make sense of society and the philosophy of good and evil.
+I describe myself as a someone who's trying to make sense of reality and the philosophy of good and evil.
 
 I am currently working on a couple of Machine Learning projects at the intersection of business and social science. My repositories are a combination of data wrangling practice-projects and other more serious statistical and predictive modeling work.
 
