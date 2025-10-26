@@ -1,6 +1,6 @@
 ## Hi there 👋 Nice to meet you!
 
-Data, Society, Machine Learning, all the fun stuff!
+Data, Society, Machine Learning, one not so small puzzle.
 
 🧠 **About Me**
 
