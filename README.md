@@ -8,7 +8,7 @@ I am someone who's trying to make sense of reality and the philosophy of good an
 
 ... Currently working on a couple of Machine Learning projects at the intersection of business and social science. My repositories are a combination of data wrangling practice-projects and other more serious statistical and predictive modeling work.
 
-Feel free to ping me or email me at 📧 ayeraldo.guillen@gmail.com if you have any questions.
+Feel free to email me at 📧 ayeraldo.guillen@gmail.com if you have any questions. 
 
 🚀 **My Journey in Entrepreneurship**
 
