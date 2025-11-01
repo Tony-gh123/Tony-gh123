@@ -1,4 +1,4 @@
-## Hi there 👋 Nice to meet you!
+## Hi there 👋
 
 Data, Society, Machine Learning, one not so small puzzle.
 
