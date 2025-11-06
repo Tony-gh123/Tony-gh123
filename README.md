@@ -6,8 +6,6 @@ Data, Society, Machine Learning, one not so small puzzle.
 
 Someone who's trying to make sense of reality and the philosophy of good and evil.
 
-... currently working on ML projects! 
-
 Feel free to email me at 📧 ayeraldo.guillen@gmail.com if you have any questions. 
 
 🚀 **My Journey in Entrepreneurship**
