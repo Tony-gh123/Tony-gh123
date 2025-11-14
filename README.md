@@ -16,7 +16,7 @@ As I've gotten older, I've attemped a series of online businesses from web-desig
 
 🎯 **Interests**
 
-Entrepreneurship • Data Science • Computer Science • Philosophy •
+Entrepreneurship • Data Science • Computer Science • Logistics • Supply Chain • Philosophy •
 Cognitive & Behavioral Science • Social Science • Bioinformatics
 
 <details class="courses-dropdown">
