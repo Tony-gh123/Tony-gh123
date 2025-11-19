@@ -8,12 +8,6 @@ Someone who's trying to make sense of reality and the philosophy of good and evi
 
 Feel free to email me at 📧 ayeraldo.guillen@gmail.com if you have any questions. 
 
-🚀 **My Journey in Entrepreneurship**
-
-I started my first business in my fourth grade class in El Salvador. I had learned to crochet from my grandma, who at the time took care of my brothers and I. I noticed that many of my classmates liked the idea of having items with their names printed on them and more surprisingly to my nine years old self, they were willing to pay for it. Out of kindness, I began crocheting personalized bracelets for my closest friends, and soon had all of my classmates eager to trade their lunch items for a bracelet with their name on it.
-
-As I've gotten older, I've attemped a series of online businesses from web-design, to e-commerce, and a more serious start-up with a few colleagues from undergraduate school. My journey continues!
-
 🎯 **Interests**
 
 Entrepreneurship • Data Science • Computer Science
