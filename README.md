@@ -4,7 +4,7 @@ Data, Society, Machine Learning, one not so small puzzle.
 
 🧠 **About Me**
 
-Someone who's trying to make sense of reality and the philosophy of good and evil.
+Someone who's trying to make sense of reality.
 
 Feel free to email me at 📧 ayeraldo.guillen@gmail.com if you have any questions. 
 
